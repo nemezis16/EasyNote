@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyNote</string>
+    <string name="tittle_activity_note">NoteActivity</string>
+    <string name="note_tittle_hint">Enter a title for the note</string>
+    <string name="note_tittle_label">Tittle</string>
+    <string name="note_details_label">Details</string>
+    <string name="note_solved_label">Solved?</string>
+    <string name="notes_title">Notes</string>
+    <string name="date_picker_title">Date of note</string>
+    <string name="new_note">New Note</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle">If you see something, say something</string>
+    <string name="delete_note">Delete</string>
+    <string name="add_note">Please, add new note \n\nClick menu to add the note</string>
+</resources>
